@@ -10,4 +10,3 @@ Webづくり やりたい時が 始め時！
 * Twitter https://twitter.com/idr_zz 
 * Facebook https://www.facebook.com/idr.kumokotsu/
 * Qiita https://qiita.com/i-ryo
-* CodePen https://codepen.io/i_ryo/

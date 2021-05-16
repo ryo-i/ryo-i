@@ -10,3 +10,13 @@ Webづくり やりたい時が 始め時！
 * Twitter https://twitter.com/idr_zz 
 * Facebook https://www.facebook.com/idr.kumokotsu/
 * Qiita https://qiita.com/i-ryo
+
+# 作ったもの
+
+* アスペクト比ジェネレーター https://github.com/ryo-i/aspect-ratio-generator
+* ジャンプ率ジェネレーター https://github.com/ryo-i/jump-rate-generator-2
+* Nextアプリスターターキット https://github.com/ryo-i/next-app-started
+* Reactアプリスターターキット https://github.com/ryo-i/react-app-started
+* フロントエンド開発スターターキット https://github.com/ryo-i/front-end-getting-sterted
+* Webコーディング スターターキット https://github.com/ryo-i/web-coding-getting-sterted
+* 旧ポートフォリオ https://github.com/ryo-i/i-ryo_portfolio-2014

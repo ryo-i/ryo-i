@@ -4,9 +4,9 @@
 Webづくり やりたい時が 始め時！
 
 * ブログ https://www.i-ryo.com
+* Qiita https://qiita.com/i-ryo
 * Twitter https://twitter.com/idr_zz 
 * Facebook https://www.facebook.com/idr.kumokotsu/
-* Qiita https://qiita.com/i-ryo
 
 # 作ったもの
 

@@ -14,7 +14,7 @@ Webづくり やりたい時が 始め時！
 * ジャンプ率ジェネレーター [プレビュー](https://jump-rate-generator-2.vercel.app/) / [コード](https://github.com/ryo-i/jump-rate-generator-2)
 * Nextアプリスターターキット [プレビュー](https://next-app-started.vercel.app/) / [コード](https://github.com/ryo-i/next-app-started)
 * Reactアプリスターターキット [プレビュー](https://ryo-i.github.io/react-app-started/) / [コード](https://github.com/ryo-i/react-app-started)
-* フロントエンド開発スターターキット [プレビュー](https://ryo-i.github.io/web-coding-getting-sterted/) / [コード](https://github.com/ryo-i/front-end-getting-sterted)
+* フロントエンド開発スターターキット [プレビュー](https://ryo-i.github.io/front-end-getting-sterted/dest/) / [コード](https://github.com/ryo-i/front-end-getting-sterted)
 * Webコーディング スターターキット [プレビュー](https://ryo-i.github.io/web-coding-getting-sterted/) / [コード](https://github.com/ryo-i/web-coding-getting-sterted)
 * 旧ポートフォリオ [プレビュー](https://ryo-i.github.io/i-ryo_portfolio-2014/) / [コード](https://github.com/ryo-i/i-ryo_portfolio-2014)
 

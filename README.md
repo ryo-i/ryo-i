@@ -3,24 +3,24 @@
 フロントエンドエンジニア。神奈川に住まう四十路のオジキ。 DTP→Webデザイナーから転向し今に至る。引き続きコツコツの日々。
 Webづくり やりたい時が 始め時！
 
-* ブログ https://www.i-ryo.com
-* Qiita https://qiita.com/i-ryo
-* Twitter https://twitter.com/idr_zz 
-* Facebook https://www.facebook.com/idr.kumokotsu/
+* ブログ [クモのようにコツコツと](https://www.i-ryo.com)
+* Qiita [@i-ryo](https://qiita.com/i-ryo)
+* Twitter [@idr_zz](https://twitter.com/idr_zz) 
+* Facebook [kumokotsu](https://www.facebook.com/idr.kumokotsu/)
 
 # 作ったもの
 
-* アスペクト比ジェネレーター https://github.com/ryo-i/aspect-ratio-generator
-* ジャンプ率ジェネレーター https://github.com/ryo-i/jump-rate-generator-2
-* Nextアプリスターターキット https://github.com/ryo-i/next-app-started
-* Reactアプリスターターキット https://github.com/ryo-i/react-app-started
-* フロントエンド開発スターターキット https://github.com/ryo-i/front-end-getting-sterted
-* Webコーディング スターターキット https://github.com/ryo-i/web-coding-getting-sterted
-* 旧ポートフォリオ https://github.com/ryo-i/i-ryo_portfolio-2014
+* アスペクト比ジェネレーター [プレビュー](https://aspect-ratio-generator.vercel.app) / [コード](https://github.com/ryo-i/aspect-ratio-generator)
+* ジャンプ率ジェネレーター [プレビュー](https://jump-rate-generator-2.vercel.app/) / [コード](https://github.com/ryo-i/jump-rate-generator-2)
+* Nextアプリスターターキット [プレビュー](https://next-app-started.vercel.app/) / [コード](https://github.com/ryo-i/next-app-started)
+* Reactアプリスターターキット [プレビュー](https://ryo-i.github.io/react-app-started/) / [コード](https://github.com/ryo-i/react-app-started)
+* フロントエンド開発スターターキット [プレビュー](https://ryo-i.github.io/web-coding-getting-sterted/) / [コード](https://github.com/ryo-i/front-end-getting-sterted)
+* Webコーディング スターターキット [プレビュー](https://ryo-i.github.io/web-coding-getting-sterted/) / [コード](https://github.com/ryo-i/web-coding-getting-sterted)
+* 旧ポートフォリオ [プレビュー](https://ryo-i.github.io/i-ryo_portfolio-2014/) / [コード](https://github.com/ryo-i/i-ryo_portfolio-2014)
 
 # 作っているもの
 
-* 配色ジェネレーター https://github.com/ryo-i/color-scheme-generator
+* 配色ジェネレーター [プレビュー](https://color-scheme-generator.vercel.app) / [コード](https://github.com/ryo-i/color-scheme-generator)
 
 # 作りたいもの
 

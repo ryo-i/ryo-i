@@ -3,24 +3,24 @@
 フロントエンドエンジニア。神奈川に住まう四十路のオジキ。 DTP→Webデザイナーから転向し今に至る。引き続きコツコツの日々。
 Webづくり やりたい時が 始め時！
 
-* ブログ [クモのようにコツコツと](https://www.i-ryo.com)
-* Qiita [@i-ryo](https://qiita.com/i-ryo)
-* Twitter [@idr_zz](https://twitter.com/idr_zz) 
-* Facebook [@idr.kumokotsu](https://www.facebook.com/idr.kumokotsu/)
+* ブログ: [クモのようにコツコツと](https://www.i-ryo.com)
+* Qiita: [@i-ryo](https://qiita.com/i-ryo)
+* Twitter: [@idr_zz](https://twitter.com/idr_zz) 
+* Facebook: [@idr.kumokotsu](https://www.facebook.com/idr.kumokotsu/)
 
 # 作ったもの
 
-* アスペクト比ジェネレーター [コード](https://github.com/ryo-i/aspect-ratio-generator) / [プレビュー](https://aspect-ratio-generator.vercel.app)
-* ジャンプ率ジェネレーター [コード](https://github.com/ryo-i/jump-rate-generator-2) / [プレビュー](https://jump-rate-generator-2.vercel.app/)
-* Nextアプリスターターキット [コード](https://github.com/ryo-i/next-app-started) / [プレビュー](https://next-app-started.vercel.app/)
-* Reactアプリスターターキット [コード](https://github.com/ryo-i/react-app-started) / [プレビュー](https://ryo-i.github.io/react-app-started/)
-* フロントエンド開発スターターキット [コード](https://github.com/ryo-i/front-end-getting-sterted) / [プレビュー](https://ryo-i.github.io/front-end-getting-sterted/dest/)
-* Webコーディング スターターキット [コード](https://github.com/ryo-i/web-coding-getting-sterted) / [プレビュー](https://ryo-i.github.io/web-coding-getting-sterted/)
-* 旧ポートフォリオ [コード](https://github.com/ryo-i/i-ryo_portfolio-2014) / [プレビュー](https://ryo-i.github.io/i-ryo_portfolio-2014/)
+* アスペクト比ジェネレーター: [コード](https://github.com/ryo-i/aspect-ratio-generator) / [プレビュー](https://aspect-ratio-generator.vercel.app)
+* ジャンプ率ジェネレーター: [コード](https://github.com/ryo-i/jump-rate-generator-2) / [プレビュー](https://jump-rate-generator-2.vercel.app/)
+* Nextアプリスターターキット: [コード](https://github.com/ryo-i/next-app-started) / [プレビュー](https://next-app-started.vercel.app/)
+* Reactアプリスターターキット: [コード](https://github.com/ryo-i/react-app-started) / [プレビュー](https://ryo-i.github.io/react-app-started/)
+* フロントエンド開発スターターキット: [コード](https://github.com/ryo-i/front-end-getting-sterted) / [プレビュー](https://ryo-i.github.io/front-end-getting-sterted/dest/)
+* Webコーディング スターターキット: [コード](https://github.com/ryo-i/web-coding-getting-sterted) / [プレビュー](https://ryo-i.github.io/web-coding-getting-sterted/)
+* 旧ポートフォリオ: [コード](https://github.com/ryo-i/i-ryo_portfolio-2014) / [プレビュー](https://ryo-i.github.io/i-ryo_portfolio-2014/)
 
 # 作っているもの
 
-* 配色ジェネレーター [コード](https://github.com/ryo-i/color-scheme-generator) / [プレビュー](https://color-scheme-generator.vercel.app)
+* 配色ジェネレーター: [コード](https://github.com/ryo-i/color-scheme-generator) / [プレビュー](https://color-scheme-generator.vercel.app)
 
 # 作りたいもの
 

@@ -10,6 +10,7 @@ Webづくり やりたい時が 始め時！
 
 # 作ったもの
 
+* 配色ジェネレーター: [コード](https://github.com/ryo-i/color-scheme-generator) / [プレビュー](https://color-scheme-generator.vercel.app)
 * アスペクト比ジェネレーター: [コード](https://github.com/ryo-i/aspect-ratio-generator) / [プレビュー](https://aspect-ratio-generator.vercel.app)
 * ジャンプ率ジェネレーター: [コード](https://github.com/ryo-i/jump-rate-generator-2) / [プレビュー](https://jump-rate-generator-2.vercel.app/)
 * Nextアプリスターターキット: [コード](https://github.com/ryo-i/next-app-started) / [プレビュー](https://next-app-started.vercel.app/)
@@ -19,7 +20,7 @@ Webづくり やりたい時が 始め時！
 
 # 作っているもの
 
-* 配色ジェネレーター: [コード](https://github.com/ryo-i/color-scheme-generator) / [プレビュー](https://color-scheme-generator.vercel.app)
+* ビートジェネレーター（着手予定）
 
 # 作りたいもの
 
@@ -36,4 +37,3 @@ Webづくり やりたい時が 始め時！
 * シンセジェネレーター
 * 音階ジェネレーター
 * コードジェネレーター
-* ビートジェネレーター

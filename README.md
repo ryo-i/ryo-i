@@ -20,7 +20,7 @@ Webづくり やりたい時が 始め時！
 
 # 作っているもの
 
-* ビートジェネレーター: [コード](https://github.com/ryo-i/beatPlayer) / プレビュー
+* ビートジェネレーター: [コード](https://github.com/ryo-i/beat-player) / プレビュー
 
 # 作りたいもの
 

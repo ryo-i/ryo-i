@@ -6,7 +6,10 @@ Webづくり やりたい時が 始め時！
 * ブログ: [クモのようにコツコツと](https://www.i-ryo.com)
 * Qiita: [@i-ryo](https://qiita.com/i-ryo)
 * Twitter: [@idr_zz](https://twitter.com/idr_zz) 
-* Facebook: [@idr.kumokotsu](https://www.facebook.com/idr.kumokotsu/)
+
+# 作っているもの
+
+* ビートプレイヤー: [コード](https://github.com/ryo-i/beat-player) / [プレビュー](https://beat-player.vercel.app/)
 
 # 作ったもの
 
@@ -17,10 +20,6 @@ Webづくり やりたい時が 始め時！
 * Reactアプリスターターキット: [コード](https://github.com/ryo-i/react-app-started) / [プレビュー](https://ryo-i.github.io/react-app-started/)
 * フロントエンド開発スターターキット: [コード](https://github.com/ryo-i/front-end-getting-sterted) / [プレビュー](https://ryo-i.github.io/front-end-getting-sterted/dest/)
 * Webコーディング スターターキット: [コード](https://github.com/ryo-i/web-coding-getting-sterted) / [プレビュー](https://ryo-i.github.io/web-coding-getting-sterted/)
-
-# 作っているもの
-
-* ビートプレイヤー: [コード](https://github.com/ryo-i/beat-player) / [プレビュー](https://beat-player.vercel.app/)
 
 # 作りたいもの
 

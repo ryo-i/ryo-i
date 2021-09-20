@@ -9,7 +9,7 @@ Webづくり やりたい時が 始め時！
 
 # 作っているもの
 
-* コードプレイヤー: [コード](https://github.com/ryo-i/cordPlayer) / プレビュー
+* コードプレイヤー: [コード](https://github.com/ryo-i/cord-player) / プレビュー
 
 # 作ったもの
 

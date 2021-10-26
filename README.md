@@ -9,10 +9,11 @@ Webづくり やりたい時が 始め時！
 
 # 作っているもの
 
-* コードプレイヤー: [コード](https://github.com/ryo-i/chord-player) / [プレビュー](https://chord-player.vercel.app)
+* スケールプレイヤー: [コード]() / [プレビュー]
 
 # 作ったもの
 
+* コードプレイヤー: [コード](https://github.com/ryo-i/chord-player) / [プレビュー](https://chord-player.vercel.app)
 * ビートプレイヤー: [コード](https://github.com/ryo-i/beat-player) / [プレビュー](https://beat-player.vercel.app/)
 * 配色ジェネレーター: [コード](https://github.com/ryo-i/color-scheme-generator) / [プレビュー](https://color-scheme-generator.vercel.app)
 * アスペクト比ジェネレーター: [コード](https://github.com/ryo-i/aspect-ratio-generator) / [プレビュー](https://aspect-ratio-generator.vercel.app)
@@ -47,4 +48,3 @@ Webづくり やりたい時が 始め時！
 * 色と音を変換して組み合わせたコンテンツ 
 * お絵かきBBS（p5.js）色や太さも変えたい: [コード](https://github.com/ryo-i/oekakiBBS) / プレビュー
 * シンセジェネレーター
-* スケールプレイヤー

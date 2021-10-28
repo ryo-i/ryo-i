@@ -9,8 +9,8 @@ Webづくり やりたい時が 始め時！
 
 # 作っているもの
 
-* スケールプレイヤー: [コード](https://github.com/ryo-i/scale-player) / [プレビュー]
-* 三角関数がどんなものかわかるビジュアルを伴った作品（p5.js + フォーム）: [コード] / [プレビュー]
+* スケールプレイヤー: [コード](https://github.com/ryo-i/scale-player) / [プレビュー]()
+* 三角関数がどんなものかわかるビジュアルを伴った作品（p5.js + フォーム）: [コード](https://github.com/ryo-i/trigonometric-function-generator) / [プレビュー]()
 
 # 作ったもの
 

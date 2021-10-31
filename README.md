@@ -9,8 +9,8 @@ Webづくり やりたい時が 始め時！
 
 # 作っているもの
 
-* スケールプレイヤー: [コード](https://github.com/ryo-i/scale-player) / [プレビュー]
-* 三角関数ジェネレーター: [コード](https://github.com/ryo-i/trigonometric-function-generator) / [プレビュー]
+* スケールプレイヤー: [コード](https://github.com/ryo-i/scale-player) / [プレビュー](https://scale-player.vercel.app/)
+* 三角関数ジェネレーター: [コード](https://github.com/ryo-i/trigonometric-function-generator) / [プレビュー](https://trigonometric-function-generator.vercel.app/)
 
 # 作ったもの
 

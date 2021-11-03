@@ -10,6 +10,7 @@ Webづくり やりたい時が 始め時！
 # 作っているもの
 
 * スケールプレイヤー: [コード](https://github.com/ryo-i/scale-player) / [プレビュー](https://scale-player.vercel.app/)
+* お絵かきボード: [コード](https://github.com/ryo-i/oekaki-bord) / [プレビュー]
 * 三角関数ジェネレーター: [コード](https://github.com/ryo-i/trigonometric-function-generator) / [プレビュー](https://trigonometric-function-generator.vercel.app/)
 
 # 作ったもの
@@ -27,6 +28,7 @@ Webづくり やりたい時が 始め時！
 
 # 作りたいもの
 
+* 糸かけ曼荼羅みたいなコンテンツ（数学アート）
 * テキストトゥスピーチ（Web Speech API）で読み上げる百人一首ゲーム
 * 迷惑バナーぽいモグラ叩きゲーム
 * アプリを「○○君」シリーズの名前で統一しようか？
@@ -46,5 +48,4 @@ Webづくり やりたい時が 始め時！
 * 画像または図形と回転数を選ぶと家紋が作れるジェネレーター
 * 文字と音を変換して組み合わせたコンテンツ
 * 色と音を変換して組み合わせたコンテンツ 
-* お絵かきBBS（p5.js）色や太さも変えたい: [コード](https://github.com/ryo-i/oekakiBBS) / プレビュー
 * シンセジェネレーター

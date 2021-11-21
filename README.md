@@ -23,7 +23,7 @@ Webづくり やりたい時が 始め時！
 * アスペクト比ジェネレーター: [コード](https://github.com/ryo-i/aspect-ratio-generator) / [プレビュー](https://aspect-ratio-generator.vercel.app)
 * ジャンプ率ジェネレーター: [コード](https://github.com/ryo-i/jump-rate-generator-2) / [プレビュー](https://jump-rate-generator-2.vercel.app/)
 
-## フロントエンド・スタートキット
+## フロントエンド・スターターキット
 * Nextアプリスターターキット: [コード](https://github.com/ryo-i/next-app-started) / [プレビュー](https://next-app-started.vercel.app/)
 * Reactアプリスターターキット: [コード](https://github.com/ryo-i/react-app-started) / [プレビュー](https://ryo-i.github.io/react-app-started/)
 * フロントエンド開発スターターキット: [コード](https://github.com/ryo-i/front-end-getting-sterted) / [プレビュー](https://ryo-i.github.io/front-end-getting-sterted/dest/)

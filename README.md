@@ -11,7 +11,6 @@ Webづくり やりたい時が 始め時！
 
 * スケールプレイヤー: [コード](https://github.com/ryo-i/scale-player) / [プレビュー](https://scale-player.vercel.app/)
 * 三角関数しらべMath: [コード](https://github.com/ryo-i/sankaku-kansu-shirabe-math) / [プレビュー](https://sankaku-kansu-shirabe-math.vercel.app/)
-* お絵かきボード: [コード](https://github.com/ryo-i/oekaki-bord) / [プレビュー](https://oekaki-bord.vercel.app)
 
 # 作ったもの
 
@@ -48,4 +47,6 @@ Webづくり やりたい時が 始め時！
 * 画像または図形と回転数を選ぶと家紋が作れるジェネレーター
 * 文字と音を変換して組み合わせたコンテンツ
 * 色と音を変換して組み合わせたコンテンツ 
+* シンセジェネレーター
+* お絵かきボード（中断）: [コード](https://github.com/ryo-i/oekaki-bord) / [プレビュー](https://oekaki-bord.vercel.app)
 * シンセジェネレーター

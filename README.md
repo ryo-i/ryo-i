@@ -49,4 +49,3 @@ Webづくり やりたい時が 始め時！
 * 色と音を変換して組み合わせたコンテンツ 
 * シンセジェネレーター
 * お絵かきボード（中断）: [コード](https://github.com/ryo-i/oekaki-bord) / [プレビュー](https://oekaki-bord.vercel.app)
-* シンセジェネレーター

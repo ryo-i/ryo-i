@@ -7,12 +7,12 @@ Webづくり やりたい時が 始め時！
 * Qiita: [@i-ryo](https://qiita.com/i-ryo)
 * Twitter: [@idr_zz](https://twitter.com/idr_zz) 
 
-# 作っているもの
+# いま作っているもの
 
 * スケールプレイヤー: [コード](https://github.com/ryo-i/scale-player) / [プレビュー](https://scale-player.vercel.app/)
 * 三角関数しらべMath: [コード](https://github.com/ryo-i/sankaku-kansu-shirabe-math) / [プレビュー](https://sankaku-kansu-shirabe-math.vercel.app/)
 
-# 作ったもの
+# これまで作ったもの
 
 ## 音楽系アプリ
 * コードプレイヤー: [コード](https://github.com/ryo-i/chord-player) / [プレビュー](https://chord-player.vercel.app)
@@ -32,7 +32,7 @@ Webづくり やりたい時が 始め時！
 ## わたしの原点
 * ポートフォリオ(2014): [コード](https://github.com/ryo-i/i-ryo_portfolio-2014) / [プレビュー](https://ryo-i.github.io/i-ryo_portfolio-2014/)
 
-# 作りたいもの
+# これから作りたいもの
 
 * 糸かけ曼荼羅みたいなコンテンツ（数学アート）
 * テキストトゥスピーチ（Web Speech API）で読み上げる百人一首ゲーム

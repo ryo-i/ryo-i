@@ -9,12 +9,12 @@ Webづくり やりたい時が 始め時！
 
 # いま作っているもの
 
-* スケールプレイヤー: [コード](https://github.com/ryo-i/scale-player) / [プレビュー](https://scale-player.vercel.app/)
 * 三角関数しらべMath: [コード](https://github.com/ryo-i/sankaku-kansu-shirabe-math) / [プレビュー](https://sankaku-kansu-shirabe-math.vercel.app/)
 
 # これまで作ったもの
 
 ## 音楽系アプリ
+* スケールプレイヤー: [コード](https://github.com/ryo-i/scale-player) / [プレビュー](https://scale-player.vercel.app/)
 * コードプレイヤー: [コード](https://github.com/ryo-i/chord-player) / [プレビュー](https://chord-player.vercel.app)
 * ビートプレイヤー: [コード](https://github.com/ryo-i/beat-player) / [プレビュー](https://beat-player.vercel.app/)
 

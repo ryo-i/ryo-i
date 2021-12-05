@@ -32,7 +32,7 @@ Webづくり やりたい時が 始め時！
 ## わたしの原点
 * ポートフォリオ(2014): [コード](https://github.com/ryo-i/i-ryo_portfolio-2014) / [プレビュー](https://ryo-i.github.io/i-ryo_portfolio-2014/)
 
-# これから作りたいもの
+<details><summary># これから作りたいもの</details>
 
 * ブラウザ版シュウォッチ（デジタル時計風の数字）
 * 3Dループアニメジェネレーター
@@ -63,3 +63,4 @@ Webづくり やりたい時が 始め時！
 * 色と音を変換して組み合わせたコンテンツ 
 * シンセジェネレーター
 * お絵かきボード（中断）: [コード](https://github.com/ryo-i/oekaki-bord) / [プレビュー](https://oekaki-bord.vercel.app)
+</summary>

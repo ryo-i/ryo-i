@@ -13,8 +13,6 @@ Webづくり やりたい時が 始め時！
 
 # これまで作ったもの
 
-<details><summary>開く</summary>
-
 ## 音楽系アプリ
 * スケールプレイヤー: [コード](https://github.com/ryo-i/scale-player) / [プレビュー](https://scale-player.vercel.app/)
 * コードプレイヤー: [コード](https://github.com/ryo-i/chord-player) / [プレビュー](https://chord-player.vercel.app)
@@ -33,7 +31,6 @@ Webづくり やりたい時が 始め時！
 
 ## わたしの原点
 * ポートフォリオ(2014): [コード](https://github.com/ryo-i/i-ryo_portfolio-2014) / [プレビュー](https://ryo-i.github.io/i-ryo_portfolio-2014/)
-</details>
 
 # これから作りたいもの
 

@@ -9,9 +9,13 @@ Webづくり やりたい時が 始め時！
 
 # いま作っているもの
 
-* 三角関数しらべMath: [コード](https://github.com/ryo-i/sankaku-kansu-shirabe-math) / [プレビュー](https://sankaku-kansu-shirabe-math.vercel.app/)
+「これから作りたいもの」の中から何を作るか検討中…
 
 # これまで作ったもの
+
+## 数学系アプリ
+
+* 三角関数しらべMath: [コード](https://github.com/ryo-i/sankaku-kansu-shirabe-math) / [プレビュー](https://sankaku-kansu-shirabe-math.vercel.app/)
 
 ## 音楽系アプリ
 * スケールプレイヤー: [コード](https://github.com/ryo-i/scale-player) / [プレビュー](https://scale-player.vercel.app/)

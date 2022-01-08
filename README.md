@@ -9,8 +9,7 @@ Webづくり やりたい時が 始め時！
 
 # いま作っているもの
 
-* Nextスターターキットとスプレッドシートを連携したアプリを検討中
-* NextスターターキットとfairebaseのDBを連携したアプリを検討中
+* Next環境からFirebase読み込みテスト: [コード](https://github.com/ryo-i/firebase-test) / [プレビュー](https://firebase-test-eta.vercel.app)
 
 # これまで作ったもの
 

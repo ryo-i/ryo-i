@@ -39,10 +39,10 @@ Webづくり やりたい時が 始め時！
 # これから作りたいもの
 
 <details><summary>開く</summary>
-
+* Nextスターターキット内でfirebaseをインポートし、firebase関数がVercel環境で動くか試したい
+* firebaseとlocalstrageの連携
 * graphQLのDBに接続するアプリ
-* firebaseのDBに接続するアプリ
-* スプレッドシートのAPIのJSONに接続するアプリ
+* ビートルズDB（firebaseかスプ氏に接続）
 * 自動で韻を踏むジェネレーターみたいの（読み仮名から母音変換検索みたいな）
 * ガンダム宇宙世紀0079-0093データベースみたいな（切り口検討）
 * ポリリズム合成ジェネレーター

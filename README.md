@@ -38,7 +38,9 @@ Webづくり やりたい時が 始め時！
 
 # これから作りたいもの
 
-<details><summary>開く</summary>
+<details>
+  <summary>開く</summary>
+  
 * Nextスターターキットでfirebaseをインポートし、firebase関数がVercel環境で動くか試したい
 * Nextスターターキットでfirebaseとlocalstrageの連携
 * NextスターターキットでFirebaseのCRUD

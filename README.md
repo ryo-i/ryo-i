@@ -9,7 +9,7 @@ Webづくり やりたい時が 始め時！
 
 # いま作っているもの
 
-* Next環境からFirebase読み込みテスト: [コード](https://github.com/ryo-i/firebase-test) / [プレビュー](https://firebase-test-eta.vercel.app)
+* Next環境とDBの連携関係、もう少し試してみたい
 
 # これまで作ったもの
 
@@ -42,7 +42,7 @@ Webづくり やりたい時が 始め時！
   <summary>開く</summary>
   
 * Nextスターターキットでfirebaseをインポートし、firebase関数がVercel環境で動くか試したい
-* Nextスターターキットでfirebaseとlocalstrageの連携
+* Nextスターターキットでfirebaseとlocalstrageの連携したい
 * NextスターターキットでFirebaseのCRUD
 * graphQLのDBに接続するアプリ
 * ビートルズDB（firebaseかスプ氏に接続）

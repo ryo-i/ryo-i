@@ -9,7 +9,7 @@ Webづくり やりたい時が 始め時！
 
 # いま作っているもの
 
-* Next環境とDBの連携関係、もう少し試してみたい
+* ビートルズDB: [コード](https://github.com/ryo-i/beatles-db) / [プレビュー](https://beatles-db.vercel.app/)
 
 # これまで作ったもの
 
@@ -45,7 +45,6 @@ Webづくり やりたい時が 始め時！
 * Nextスターターキットでfirebaseとlocalstrageの連携したい
 * NextスターターキットでFirebaseのCRUD
 * graphQLのDBに接続するアプリ
-* ビートルズDB（firebaseかスプ氏に接続）
 * 自動で韻を踏むジェネレーターみたいの（読み仮名から母音変換検索みたいな）
 * ガンダム宇宙世紀0079-0093データベースみたいな（切り口検討）
 * ポリリズム合成ジェネレーター

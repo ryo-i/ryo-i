@@ -41,6 +41,7 @@ Webづくり やりたい時が 始め時！
 <details>
   <summary>開く</summary>
   
+* 魚編検索アプリ（右側の作りでも検索できる）
 * Nextスターターキットでfirebaseをインポートし、firebase関数がVercel環境で動くか試したい
 * Nextスターターキットでfirebaseとlocalstrageの連携したい
 * NextスターターキットでFirebaseのCRUD

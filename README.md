@@ -9,9 +9,11 @@ Webづくり やりたい時が 始め時！
 
 # いま作っているもの
 
-* ビートルズDB: [コード](https://github.com/ryo-i/beatles-db) / [プレビュー](https://beatles-db.vercel.app/)
-
 # これまで作ったもの
+
+## データ系アプリ
+
+* ビートルズDB: [コード](https://github.com/ryo-i/beatles-db) / [プレビュー](https://beatles-db.vercel.app/)
 
 ## 数学系アプリ
 

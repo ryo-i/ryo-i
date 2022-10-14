@@ -14,7 +14,7 @@ Webづくり やりたい時が 始め時！
 
 # これまで作ったもの
 
-## データ系アプリ
+## データベース系アプリ
 
 * ビートルズDB: [コード](https://github.com/ryo-i/beatles-db) / [プレビュー](https://beatles-db.vercel.app/)
 

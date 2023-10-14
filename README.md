@@ -10,7 +10,7 @@ Webづくり やりたい時が 始め時！
 # いま作っているもの
 
 * next-three-js-test: [コード](https://github.com/ryo-i/next-three-js-test) / [プレビュー](https://next-three-js-test.vercel.app/)
-* shnth-generator: [コード](https://github.com/ryo-i/synth-generator) / プレビュー
+* shnth-generator: [コード](https://github.com/ryo-i/synth-generator) / [プレビュー](https://synth-generator.vercel.app/)
 
 # これまで作ったもの
 

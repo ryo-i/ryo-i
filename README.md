@@ -5,7 +5,8 @@ Webづくり やりたい時が 始め時！
 
 * ブログ: [クモのようにコツコツと](https://www.i-ryo.com)
 * Qiita: [@i-ryo](https://qiita.com/i-ryo)
-* Twitter: [@idr_zz](https://twitter.com/idr_zz) 
+* Twitter: [@idr_zz](https://twitter.com/idr_zz)
+* プロジェクト: [クモコツプロジェクト](https://github.com/ryo-i/kumokotsu-project)
 
 # いま作っているもの
 

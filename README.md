@@ -10,7 +10,6 @@ Webづくり やりたい時が 始め時！
 
 # いま作っているもの
 
-* synth-generator: [コード](https://github.com/ryo-i/synth-generator) / [プレビュー](https://synth-generator.vercel.app/)
 * next-three-js-test: [コード](https://github.com/ryo-i/next-three-js-test) / [プレビュー](https://next-three-js-test.vercel.app/)
 
 # これまで作ったもの
@@ -25,6 +24,7 @@ Webづくり やりたい時が 始め時！
 * 三角関数しらべMath: [コード](https://github.com/ryo-i/sankaku-kansu-shirabe-math) / [プレビュー](https://sankaku-kansu-shirabe-math.vercel.app/)
 
 ## 音楽系アプリ
+* synth-generator: [コード](https://github.com/ryo-i/synth-generator) / [プレビュー](https://synth-generator.vercel.app/)
 * スケールプレイヤー: [コード](https://github.com/ryo-i/scale-player) / [プレビュー](https://scale-player.vercel.app/)
 * コードプレイヤー: [コード](https://github.com/ryo-i/chord-player) / [プレビュー](https://chord-player.vercel.app)
 * ビートプレイヤー: [コード](https://github.com/ryo-i/beat-player) / [プレビュー](https://beat-player.vercel.app/)

@@ -9,9 +9,13 @@
 
 # いま作っているもの
 
-* next-three-js-test: [コード](https://github.com/ryo-i/next-three-js-test) / [プレビュー](https://next-three-js-test.vercel.app/)
+- 20分ではじめるRuby: [コード](https://github.com/ryo-i/get-started-with-ruby-in-20-minutes) / プレビュー
 
 # これまで作ったもの
+
+## WebGL（3D）習作
+
+* next-three-js-test: [コード](https://github.com/ryo-i/next-three-js-test) / [プレビュー](https://next-three-js-test.vercel.app/)
 
 ## データベース系アプリ
 

@@ -10,12 +10,13 @@
 # いま作っているもの
 
 - 20分ではじめるRuby: [コード](https://github.com/ryo-i/get-started-with-ruby-in-20-minutes) / プレビュー
+- next-three-js-test: [コード](https://github.com/ryo-i/next-three-js-test) / [プレビュー](https://next-three-js-test.vercel.app/)
 
 # これまで作ったもの
 
-## WebGL（3D）習作
+## ゲーム系アプリ
 
-* next-three-js-test: [コード](https://github.com/ryo-i/next-three-js-test) / [プレビュー](https://next-three-js-test.vercel.app/)
+- Dodecahedron： [コード](https://github.com/ryo-i/next-three-js-test/blob/main/components/Inner_069.tsx) / [プレビュー](https://next-three-js-test.vercel.app/test/069)
 
 ## データベース系アプリ
 

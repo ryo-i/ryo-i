@@ -10,7 +10,6 @@
 # いま作っているもの
 
 - Railsチュートリアル hello app： [コード](https://github.com/ryo-i/hello_app) / プレビュー
-- next-three-js-test: [コード](https://github.com/ryo-i/next-three-js-test) / [プレビュー](https://next-three-js-test.vercel.app/)
 
 # これまで作ったもの
 
@@ -18,9 +17,13 @@
 
 - 20分ではじめるRuby: [コード](https://github.com/ryo-i/get-started-with-ruby-in-20-minutes) / プレビュー
 
-## ゲーム系アプリ
+## ゲーム
 
 - Dodecahedron： [コード](https://github.com/ryo-i/next-three-js-test/blob/main/components/Inner_069.tsx) / [プレビュー](https://next-three-js-test.vercel.app/test/069)
+
+## Three.js学習
+
+- next-three-js-test（中断）: [コード](https://github.com/ryo-i/next-three-js-test) / [プレビュー](https://next-three-js-test.vercel.app/)
 
 ## データベース系アプリ
 

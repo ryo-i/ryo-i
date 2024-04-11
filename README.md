@@ -9,10 +9,14 @@
 
 # いま作っているもの
 
-- 20分ではじめるRuby: [コード](https://github.com/ryo-i/get-started-with-ruby-in-20-minutes) / プレビュー
+- Railsチュートリアル hello app： [コード](https://github.com/ryo-i/hello_app) / プレビュー
 - next-three-js-test: [コード](https://github.com/ryo-i/next-three-js-test) / [プレビュー](https://next-three-js-test.vercel.app/)
 
 # これまで作ったもの
+
+## Ruby & Ryby on lails学習
+
+- 20分ではじめるRuby: [コード](https://github.com/ryo-i/get-started-with-ruby-in-20-minutes) / プレビュー
 
 ## ゲーム系アプリ
 

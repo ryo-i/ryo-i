@@ -9,7 +9,7 @@
 
 # いま作っているもの
 
-- Railsチュートリアル hello app(local)： [コード](https://github.com/ryo-i/rails_hello_app) / プレビュー
+- Railsチュートリアル hello app(local)： [コード](https://github.com/ryo-i/rails_hello_app) / [プレビュー](https://rails-hello-app-n5t3.onrender.com/)
 
 # これまで作ったもの
 

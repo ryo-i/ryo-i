@@ -17,7 +17,7 @@
 
 - 20分ではじめるRuby: [コード](https://github.com/ryo-i/get-started-with-ruby-in-20-minutes) / プレビュー
 - Railsチュートリアル(codespaces) hello app： [コード](https://github.com/ryo-i/hello_app) / プレビュー
-- Railsチュートリアル hello app(local)： [コード](https://github.com/ryo-i/rails_hello_app) / [プレビュー](https://rails-hello-app-n5t3.onrender.com/)
+- Railsチュートリアル hello app(local)： [コード](https://github.com/ryo-i/rails_hello_app) / プレビュー
 - Railsチュートリアル Toyアプリ： [コード](https://github.com/ryo-i/rails_toy_appp) / プレビュー
 
 ## ゲーム

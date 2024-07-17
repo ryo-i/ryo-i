@@ -9,7 +9,7 @@
 
 # いま作っているもの
 
-- Railsチュートリアル Sampleアプリ： [コード](https://github.com/ryo-i/rails_sample_appp) / プレビュー
+- （検討中）
 
 # これまで作ったもの
 
@@ -19,6 +19,7 @@
 - Railsチュートリアル hello app (codespaces)： [コード](https://github.com/ryo-i/hello_app) / プレビュー
 - Railsチュートリアル hello app (local)： [コード](https://github.com/ryo-i/rails_hello_app) / プレビュー
 - Railsチュートリアル Toyアプリ： [コード](https://github.com/ryo-i/rails_toy_appp) / プレビュー
+- Railsチュートリアル Sampleアプリ： [コード](https://github.com/ryo-i/rails_sample_appp) / プレビュー
 
 ## ゲーム
 

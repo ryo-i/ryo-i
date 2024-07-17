@@ -15,11 +15,11 @@
 
 ## Ruby & Ryby on lails学習
 
-- 20分ではじめるRuby: [コード](https://github.com/ryo-i/get-started-with-ruby-in-20-minutes) / プレビュー
-- Railsチュートリアル hello app (codespaces)： [コード](https://github.com/ryo-i/hello_app) / プレビュー
-- Railsチュートリアル hello app (local)： [コード](https://github.com/ryo-i/rails_hello_app) / プレビュー
-- Railsチュートリアル Toyアプリ： [コード](https://github.com/ryo-i/rails_toy_appp) / プレビュー
 - Railsチュートリアル Sampleアプリ： [コード](https://github.com/ryo-i/rails_sample_appp) / プレビュー
+- Railsチュートリアル Toyアプリ： [コード](https://github.com/ryo-i/rails_toy_appp) / プレビュー
+- Railsチュートリアル hello app (local)： [コード](https://github.com/ryo-i/rails_hello_app) / プレビュー
+- Railsチュートリアル hello app (codespaces)： [コード](https://github.com/ryo-i/hello_app) / プレビュー
+- 20分ではじめるRuby: [コード](https://github.com/ryo-i/get-started-with-ruby-in-20-minutes) / プレビュー
 
 ## ゲーム
 

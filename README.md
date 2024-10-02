@@ -9,7 +9,7 @@
 
 # いま作っているもの
 
-- （検討中）
+- Conovel（参画）：[コード](https://github.com/Conovel) / プレビュー
 
 # これまで作ったもの
 

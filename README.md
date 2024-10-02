@@ -27,7 +27,7 @@
 
 ## Three.js学習
 
-- next-three-js-test（中断）: [コード](https://github.com/ryo-i/next-three-js-test) / [プレビュー](https://next-three-js-test.vercel.app/)
+- next-three-js-test: [コード](https://github.com/ryo-i/next-three-js-test) / [プレビュー](https://next-three-js-test.vercel.app/)
 
 ## データベース系アプリ
 

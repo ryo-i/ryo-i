@@ -29,7 +29,7 @@
 
 - next-three-js-test: [コード](https://github.com/ryo-i/next-three-js-test) / [プレビュー](https://next-three-js-test.vercel.app/)
 
-## データベース系アプリ
+## データ系アプリ
 
 * 大戦国・年表: [コード](https://github.com/ryo-i/dai-sengoku-nenpyo) / [プレビュー](https://dai-sengoku-nenpyo.vercel.app)
 * ビートルズDB: [コード](https://github.com/ryo-i/beatles-db) / [プレビュー](https://beatles-db.vercel.app/)

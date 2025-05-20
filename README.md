@@ -10,6 +10,7 @@
 # いま作っているもの
 
 - Conovel（参画）：[コード](https://github.com/Conovel) / プレビュー
+- 大戦国・年表（リニューアル版）：[コード](https://github.com/ryo-i/dai-sengoku-nenpyo-full) / プレビュー
 
 # これまで作ったもの
 
